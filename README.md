@@ -17,7 +17,7 @@
 
 ### &nbsp; Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular]
+Angular
 ![Express](https://img.shields.io/badge/express-323330?style=for-the-badge&logo=express&logoColor=white) <br>
 ![Express-Handlebars](https://img.shields.io/badge/express-handlebars-323330?style=for-the-badge&logo=express-handlebars&logoColor=red) <br>
 ![lit-html](https://img.shields.io/badge/lit--html-323330?style=for-the-badge&logo=lit&logoColor=blue)
