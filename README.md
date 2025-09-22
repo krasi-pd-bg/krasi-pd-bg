@@ -17,7 +17,7 @@
 
 ### &nbsp; Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-323330?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-Angular
+![Angular](https://camo.githubusercontent.com/14371cd808dec3105d0dcdfd0f355897bd66c3558bcf46d06ba2ec330bbf91d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d6f72616e6765)
 ![Express](https://img.shields.io/badge/express-323330?style=for-the-badge&logo=express&logoColor=white) <br>
 ![Express-Handlebars](https://img.shields.io/badge/express-handlebars-323330?style=for-the-badge&logo=express-handlebars&logoColor=red) <br>
 ![lit-html](https://img.shields.io/badge/lit--html-323330?style=for-the-badge&logo=lit&logoColor=blue)
