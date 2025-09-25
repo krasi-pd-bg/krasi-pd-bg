@@ -5,9 +5,9 @@
 
 ### &nbsp; Skills
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=blue)
+![TYPESCRIPT](https://camo.githubusercontent.com/76502f38713e5ed7182a7b12d6aa6610bf59e1ba3813a2a88590153e08144642/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d626c7565)
 ![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red)
-![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red)<br>
+![CSS](https://camo.githubusercontent.com/224868372db7ecac42f0569ba31ce962812541a6d2cf99a70ef4ddebbb0905a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3332333333303f267374796c653d666f722d7468652d6261646765266c6f676f3d637373266c6f676f436f6c6f723d626c7565)<br>
 ![RESTful API](https://img.shields.io/badge/RESTful_API-323330?style=for-the-badge)
 ![SPA Applications](https://img.shields.io/badge/SPA_Applications-323330?style=for-the-badge)
 ![MPA Applications](https://img.shields.io/badge/MPA_Applications-323330?style=for-the-badge)
