@@ -6,7 +6,8 @@
 ### &nbsp; Skills
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=blue)
-![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red) <br>
+![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red)
+![HTML](	https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=red)<br>
 ![RESTful API](https://img.shields.io/badge/RESTful_API-323330?style=for-the-badge)
 ![SPA Applications](https://img.shields.io/badge/SPA_Applications-323330?style=for-the-badge)
 ![MPA Applications](https://img.shields.io/badge/MPA_Applications-323330?style=for-the-badge)
