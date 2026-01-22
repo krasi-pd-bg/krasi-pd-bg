@@ -6,6 +6,13 @@
 
 ---
 
+## 🎓 Education
+**SoftUni – Front-End Developer with JavaScript**  
+Full professional program covering JavaScript, Front-End, SPA, REST APIs, React, Angular, Node.js, and software engineering fundamentals.
+![SoftUni](https://img.shields.io/badge/SoftUni-Front--End_Developer-3A3A3A?logo=googleclassroom&logoColor=white)
+
+---
+
 ## 🛠️ Skills Overview
 
 ## 🧩 **Languages**
