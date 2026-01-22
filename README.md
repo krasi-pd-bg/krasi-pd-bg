@@ -1,4 +1,4 @@
-# 👋 Hello, I am **Krasimir Dimitrov**
+## 👋 Hello, I am **Krasimir Dimitrov**
 
 🎓 Graduated Front-End Developer from SoftUni  
 💻 Building clean, modern and functional web applications  
@@ -6,9 +6,9 @@
 
 ---
 
-## 🛠️ Skills Overview
+### 🛠️ Skills Overview
 
-### 🎨 Frontend
+#### 🎨 Frontend
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧱 Backend
+#### 🧱 Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)
 ![Handlebars](https://img.shields.io/badge/Express--Handlebars-f0772b?logo=handlebarsdotjs&logoColor=fff)
@@ -31,13 +31,13 @@
 
 ---
 
-### 🗄️ Databases
+#### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=fff)
 
 ---
 
-### ⚙️ DevOps & Infrastructure
+#### ⚙️ DevOps & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?logo=githubactions&logoColor=fff)
@@ -48,7 +48,7 @@
 
 ---
 
-### ☁️ Cloud Platforms & Infrastructure
+#### ☁️ Cloud Platforms & Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff)
@@ -57,7 +57,7 @@
 
 ---
 
-## 🌱 Currently learning
+### 🌱 Currently learning
 - Advanced JavaScript patterns  
 - Frontend frameworks  
 - Backend architecture  
@@ -66,6 +66,6 @@
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 📧 **email:** krasi_pd_bg@yahoo.co.uk  
 📞 **phone:** +359 876 19 20 50
