@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 ![lit-html](https://img.shields.io/badge/lit--html-324FFF?logo=lit&logoColor=fff)
 ![page.js](https://img.shields.io/badge/page.js-4A4A55)
 
