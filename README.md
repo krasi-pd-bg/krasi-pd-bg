@@ -1,4 +1,7 @@
 # README.md
+
+# 👋 Hello, I am **Krasimir Dimitrov** 🎓 JavaScript student 💻 Passionate about building clean, functional and modern web applications 🚀 Constantly learning and improving my skills
+
 ### Hello, I am Krasimir Dimitrov
 
 ### JavaScript student
