@@ -31,6 +31,11 @@
 
 ---
 
+## 📱 Mobile Development Tools
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
+
+---
+
 ## 🌐 **Web Development Concepts**
 ![REST](https://img.shields.io/badge/REST_API-005571?logo=api&logoColor=fff)
 ![SPA](https://img.shields.io/badge/SPA-000000?logo=react&logoColor=61DAFB)
