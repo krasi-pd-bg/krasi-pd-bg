@@ -67,6 +67,15 @@
 
 ---
 
+### 🚀 Projects
+
+#### 📱 React Native Todo List App
+A fast and minimalistic mobile todo application built with React Native & Expo.  
+👉 **[Download Android APK](https://expo.dev/artifacts/eas/myR8fB86xzi5QzzDbQy55s.apk)**  
+👉 **[View Repository](https://github.com/ТВОЕТО-РЕПО)**
+
+---
+
 ### 📫 Contact
 📧 **email:** krasi_pd_bg@yahoo.co.uk  
 📞 **phone:** +359 876 19 20 50
