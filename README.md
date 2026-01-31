@@ -58,7 +58,7 @@
 
 ---
 
-### 🌱 Currently learning
+### 🌱 Currently expanding and refining my skills in
 - Advanced JavaScript patterns  
 - Frontend frameworks  
 - Backend architecture  
