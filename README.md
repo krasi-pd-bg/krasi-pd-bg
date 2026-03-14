@@ -69,7 +69,12 @@
 
 ### 🚀 Projects
 
-#### 📱 React Native Todo List App
+#### 📱 TaskMaster – Productivity & Task Management App
+A full-featured mobile productivity app built with React Native & Expo. Includes JWT authentication, task CRUD with date grouping, dynamic categories, camera/gallery profile photos, GPS location with reverse geocoding, and a real cloud backend.  
+👉 **[Download Android APK](https://expo.dev/artifacts/eas/gi7DX89sxEmVENY4pDPVjz.apk)**  
+👉 **[View Repository](https://github.com/krasi-pd-bg/my-task-master-app)**
+
+#### 📱 Todo List App
 A fast and minimalistic mobile todo application built with React Native & Expo.  
 👉 **[Download Android APK](https://expo.dev/artifacts/eas/myR8fB86xzi5QzzDbQy55s.apk)**  
 👉 **[View Repository](https://github.com/ТВОЕТО-РЕПО)**
